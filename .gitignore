@@ -7,3 +7,7 @@
 .classpath
 .project
 /target/
+
+#Intellij Files
+.idea/
+*.iml
